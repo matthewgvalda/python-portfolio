@@ -1,1 +1,1 @@
-# python-portfolio
+# Luci - Discord Bot Project
